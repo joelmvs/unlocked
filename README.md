@@ -1,10 +1,10 @@
 # 🔓 Unlocked – Contract Intelligence Platform
 
-**Unlocked** is a web-first contract intelligence platform that helps freelancers and creators understand, organize, and act on their legal agreements. It’s more than an assistant — it’s a legal home base built to lower the barriers of traditional legal workflows.
+**Unlocked** is a web-first contract intelligence platform that helps freelancers and creators understand, organize, and act on their legal agreements. It’s more than an assistant, it’s a legal home base built to lower the barriers of traditional legal workflows.
 
 ## 🚀 Why I Built It
 
-I built Unlocked to challenge myself — to prove that building useful, user-first legal tools is within reach for individual creators, especially with tools like GPT-4 and Claude now widely accessible. I also care deeply about democratizing access to legal understanding. The legal system is often opaque by design — Unlocked is my attempt to change that.
+I built Unlocked to challenge myself, to prove that building useful, user-first legal tools is within reach for individual creators, especially with tools like GPT-4 and Claude now widely accessible. I also care deeply about democratizing access to legal understanding. The legal system is often opaque by design, Unlocked is my attempt to change that.
 
 ## 🧠 Key Features
 
