@@ -10,8 +10,6 @@ I built Unlocked to challenge myself — to prove that building useful, user-fir
 
 - AI-generated summaries of contract obligations and risks
 - Natural-language Q&A: ask questions like “What am I agreeing to?”
-- Clause tagging and interpretation
-- Contract event tracking (renewals, payments, etc.)
 - Responsive UI designed for clarity and ease
 
 ## 🛠️ Tech Stack
