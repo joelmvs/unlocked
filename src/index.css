@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Inject Karla after Tailwind's base reset */
+@layer base {
+  body {
+    font-family: 'Karla', sans-serif;
+  }
+}
